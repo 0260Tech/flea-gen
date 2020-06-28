@@ -1,0 +1,13 @@
+IMG_NAME=fleabeta
+DEPLOY_ZIP=0
+LOCALE_DEFAULT="en_US.UTF-8"
+TARGET_HOSTNAME="fleabox"
+KEYBOARD_KEYMAP="us"
+KEYBOARD_LAYOUT="English (US)"
+TIMEZONE_DEFAULT="America/Los_Angeles"
+FIRST_USER_NAME="flea"
+FIRST_USER_PASS="password"
+WPA_ESSID="Buddy the Cat"
+WPA_PASSWORD="alexmitchellisbae"
+ENABLE_SSH=1
+STAGE_LIST="stage0 stage1 stage2"
